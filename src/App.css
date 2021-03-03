@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+
+.inputCode{
+  margin: 0 auto;
+  display: block;
+  height: 600px;
+  width: 1000px;
+}
